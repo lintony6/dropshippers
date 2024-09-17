@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ishaan's File
+=======
+Ishaan's file
+>>>>>>> 006a69e (Moved ishaan.txt into branch-ishaan folder)
